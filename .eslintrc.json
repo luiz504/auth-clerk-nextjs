@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "extends": [
+    "@rocketseat/eslint-config/node"
+  ],
+  "settings": {
+    "next": {
+      "rootDir": [
+        "apps/*/"
+      ]
+    }
+  }
+}
